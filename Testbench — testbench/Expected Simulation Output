@@ -1,0 +1,9 @@
+WRITE: Address = 0 | Data = A1
+WRITE: Address = 1 | Data = B2
+WRITE: Address = 2 | Data = C3
+WRITE: Address = 3 | Data = D4
+
+READ : Address = 0 | Data = A1
+READ : Address = 1 | Data = B2
+READ : Address = 2 | Data = C3
+READ : Address = 3 | Data = D4
